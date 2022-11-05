@@ -1,2 +1,2 @@
 # RealTimeSurgicalSkillClassification
-This repository classifies surgical skills in real time using 3D CNN
+This repository classifies surgical skills from video using 3D CNN
