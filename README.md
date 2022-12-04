@@ -1,1 +1,6 @@
-This repository classifies surgical skills from video using 3D CNN
+1.) A 3D CNN-based deep learning model for surgical skill assessment.  
+
+2.) Random consecutive video frames are chosen from a Surgery video at a frequency of 30 Hz for 3
+seconds and are passed through a 3D CNN for spatial as well as temporal feature extraction.  
+
+3.) The model achieves a competitive accuracy of 100% on knot tying and 97.2% on Suturing Task.
